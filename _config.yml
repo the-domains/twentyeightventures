@@ -1,0 +1,14 @@
+layout_spectrum: 0.03392369975335896
+typography_spectrum: 0.6010778194759041
+color:
+  brandStrength: 0.3775019261520356
+  lightness: 0.2592739104293287
+  saturation: 0.5992476562969387
+  rhythmicContrast: 0.4255710525903851
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+name: twentyeightventures
